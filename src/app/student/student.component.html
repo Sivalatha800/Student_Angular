@@ -1,0 +1,14 @@
+<table id="tablecss">
+  <tr>
+    <th>Roll No</th>
+    <th>Name</th>
+    <th>Branch</th>
+    <th>Year</th>
+  </tr>
+  <tr *ngFor="let details of studentdetails">
+    <td>{{ details.rollno }}</td>
+    <td>{{ details.name }}</td>
+    <td>{{ details.branch }}</td>
+    <td>{{ details.year }}</td>
+  </tr>
+</table>
