@@ -1,4 +1,4 @@
-# this is Normal dta binding example and this is one way data binding
+# This is normal data binding example and this is one way data binding
 
 # StudentAngular
 
